@@ -14,5 +14,5 @@
 
 ### Start
 ```
-stramlit run app.py
+streamlit run app.py
 ```
